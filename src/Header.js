@@ -4,11 +4,15 @@ function Header() {
   return (
     <header className="header">
       <div className="content">
-        <h1>Moje ulubione książki</h1>
+        <h1>Lista książek</h1>
         <h3>
-          A właściwie to tylko te, których nie czytałem a bardzo chciałbym
-          przeczytać
+          To są te książki, które chce przeczytać i byłoby git jakbyś chciała mi
+          jakąś sprezentować. Nie musisz się ograniczać do jednej
         </h3>
+        <img
+          src="https://st2.depositphotos.com/1001911/10590/v/450/depositphotos_105907580-stock-illustration-ok-sign-emoticon.jpg"
+          alt=""
+        />
       </div>
     </header>
   );

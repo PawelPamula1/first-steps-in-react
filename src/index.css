@@ -73,4 +73,10 @@ body {
     padding: 3rem 8rem;
     text-align: center;
     border-radius: 15px;
+    max-width: 50rem;
+}
+
+.header .content img {
+    margin-top: 2rem;
+    width: 15rem;
 }
